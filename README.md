@@ -4,7 +4,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-🏋️‍♂️ From Fitness to Tech: Hi, I'm Chris, a fitness enthusiast turned tech aficionado. My journey began in the world of fitness, where discipline, perseverance, and goal-setting were my daily grind. Now, I'm channeling that same passion into the world of technology. 🚀 One Year in the Codeverse: I've been immersed in the world of coding for a solid year, and the journey has been nothing short of exhilarating. Each line of code feels like a brushstroke on the canvas of endless possibilities. 🎮 Game Development Aficionado: My heart beats for game development. Whether it's bringing virtual worlds to life in Unreal Engine or Unity, I thrive on the challenges and joys of creating interactive experiences that captivate and inspire. 💻 Front End Wizardry: While my main love is game development, I've honed my skills as a front-end web developer. Crafting user interfaces that are both intuitive and visually stunning is a craft I take pride in. 🌐 Tech is My Playground: Whether I'm navigating the intricacies of code or sculpting game worlds for a new adventure, I find my playground in the vast realms of technology. Every project is a chance to learn, grow, and push the boundaries of what's possible. 🔍 Currently Exploring: Always eager to expand my skill set, I'm currently diving into Unreal Engine, exploring its depths and unlocking new possibilities. The journey never ends, and I'm excited to see where the next line of code takes me. Let's connect, collaborate, and turn ideas into reality! 🚀✨
+🏋️‍♂️ From Fitness to Tech: Hi, I'm Chris, a fitness enthusiast turned tech aficionado. My journey began in the world of fitness, where discipline, perseverance, and goal-setting were my daily grind. Now, I'm channeling that same passion into the world of technology. 
+
+🚀 One Year in the Codeverse: I've been immersed in the world of coding for a solid year, and the journey has been nothing short of exhilarating. Each line of code feels like a brushstroke on the canvas of endless possibilities. 
+
+🎮 Game Development Aficionado: My heart beats for game development. Whether it's bringing virtual worlds to life in Unreal Engine or Unity, I thrive on the challenges and joys of creating interactive experiences that captivate and inspire. 
+
+💻 Front End Wizardry: While my main love is game development, I've honed my skills as a front-end web developer. Crafting user interfaces that are both intuitive and visually stunning is a craft I take pride in. 
+
+🌐 Tech is My Playground: Whether I'm navigating the intricacies of code or sculpting game worlds for a new adventure, I find my playground in the vast realms of technology. Every project is a chance to learn, grow, and push the boundaries of what's possible. 
+
+🔍 Currently Exploring: Always eager to expand my skill set, I'm currently diving into Unreal Engine, exploring its depths and unlocking new possibilities. The journey never ends, and I'm excited to see where the next line of code takes me. 
+
+Let's connect, collaborate, and turn ideas into reality! 🚀✨
 
 * 🌍  I'm based in San Francisco
 * 🖥️  See my portfolio at [pschris825.github.io/](http://pschris825.github.io/)
