@@ -19,7 +19,7 @@ Software Developer
 Let's connect, collaborate, and turn ideas into reality! 🚀✨
 
 * 🌍  I'm based in San Francisco
-* 🖥️  See my portfolio at [pschris825.github.io/](http://pschris825.github.io/)
+* 🖥️  See my portfolio at [pschris825.github.io/](http://pschris825.github.io)
 * ✉️  You can contact me at [pillotchristopher@gmail.com](mailto:pillotchristopher@gmail.com)
 * 🤝  I'm open to collaborating on Gaming Projects
 
