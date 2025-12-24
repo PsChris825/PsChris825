@@ -1,34 +1,61 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Christopher Pillot-Sampson
+Hi 👋 my name is Christopher Pillot-Sampson
 ==================================================================================================================================================
 
-Software Developer
-------------------
+Front-End Software Developer
+----------------------------
 
-🏋️‍♂️ From Fitness to Tech: Hi, I'm Chris, a fitness enthusiast turned tech aficionado. My journey began in the world of fitness, where discipline, perseverance, and goal-setting were my daily grind. Now, I'm channeling that same passion into the world of technology. 
+👋 Hi, I’m Chris — a **front-end software developer** with experience building **accessible, scalable web applications** in enterprise environments. I specialize in **React.js and TypeScript**, with a strong focus on clean component architecture, performance, and user experience.
 
-🚀 One Year in the Codeverse: I've been immersed in the world of coding for a solid year, and the journey has been nothing short of exhilarating. Each line of code feels like a brushstroke on the canvas of endless possibilities. 
+💻 **What I do**  
+I design and build **reusable, maintainable UI components** and front-end systems that align closely with design specifications and accessibility standards. I’ve worked within **micro-frontend architectures**, integrated **RESTful APIs**, and collaborated in **Agile and PI planning cycles** to deliver reliable, user-focused solutions.
 
-🎮 Game Development Aficionado: My heart beats for game development. Whether it's bringing virtual worlds to life in Unreal Engine or Unity, I thrive on the challenges and joys of creating interactive experiences that captivate and inspire. 
+🧠 **My background**  
+I hold a **Bachelor of Science in Kinesiology** from San Francisco State University and strengthened my engineering foundation through **Dev10**, where I built full-stack applications using **React, Java, SQL, and REST APIs**. This background helps me approach problems holistically, balancing technical correctness with usability and maintainability.
 
-💻 Front End Wizardry: While my main love is game development, I've honed my skills as a front-end web developer. Crafting user interfaces that are both intuitive and visually stunning is a craft I take pride in. 
+🚀 **What I’m focused on now**  
+- Building scalable, accessible React applications  
+- Writing clean, testable front-end architecture  
+- Translating Figma designs into high-quality UI  
+- Collaborating with designers, backend engineers, and product teams  
 
-🌐 Tech is My Playground: Whether I'm navigating the intricacies of code or sculpting game worlds for a new adventure, I find my playground in the vast realms of technology. Every project is a chance to learn, grow, and push the boundaries of what's possible. 
+I enjoy working on products where **thoughtful engineering, strong UX, and accessibility** are treated as first-class concerns.
 
-🔍 Currently Exploring: Always eager to expand my skill set, I'm currently diving into Unreal Engine, exploring its depths and unlocking new possibilities. The journey never ends, and I'm excited to see where the next line of code takes me. 
+---
 
-Let's connect, collaborate, and turn ideas into reality! 🚀✨
-
-* 🌍  I'm based in San Francisco
-* 🖥️  See my portfolio at [pschris825.github.io](http://pschris825.github.io)
-* ✉️  You can contact me at [pillotchristopher@gmail.com](mailto:pillotchristopher@gmail.com)
-* 🤝  I'm open to collaborating on Gaming Projects
+* 🌍  Based in the United States  
+* 🖥️  Portfolio: [pschris825.github.io](http://pschris825.github.io)  
+* ✉️  Contact: [pillotchristopher@gmail.com](mailto:pillotchristopher@gmail.com)  
+* 🤝  Open to collaboration on front-end and web projects  
 
 ### Skills
 
-
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+</a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+</a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+</a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
+</a>
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jest-colored.svg" width="36" height="36" alt="Jest" />
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+</a>
 </p>
+
 
 
 ### Socials
